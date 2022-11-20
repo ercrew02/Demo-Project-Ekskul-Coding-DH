@@ -236,7 +236,7 @@ li, ul {
 	padding: 10px 30px;
 }
 .header-section.sticky .logo img {
-	height: 55px;
+	height: auto;
 }
 
 
